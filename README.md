@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> ਤੇਰੀਆਂ ਨਿਗਾਹਾਂ ਮੈਨੂੰ ਕਰਦੀਆਂ wild ਆ
+> ਨੀ ਤੇਰੇ ਬਿਨਾ ਮੇਰਾ loose ਹੁੰਦਾ mind ਆ
+> ਰਾਤ ਦੇ ਹਨੇਰੇ ਵਿੱਚ feel ਮੇਰੀ high ਆ
+> ਸੱਚ ਦੱਸਾਂ ਤੂੰ ਹੀ ਮੇਰੀ number one vibe ਆ
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
