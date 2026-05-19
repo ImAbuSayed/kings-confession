@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/kings-confession/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for King’s Confession](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kings-confession/) |
+| **Get License** | [Request Licensing for King’s Confession](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kings-confession/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8c713ccecfcd034bb83f52e4fc10e232ead359fbce3282bfba9a9559e23df63f` |
 | **Timestamp** | May 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

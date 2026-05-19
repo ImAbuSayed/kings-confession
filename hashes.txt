@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - King’s Confession
+
+This log tracks the cryptographic history and versioning for the song **King’s Confession** (kings-confession).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-20T02:47:06.580233 | `v1` | `8c713ccecfcd034bb83f52e4fc10e232ead359fbce3282bfba9a9559e23df63f` | `56e45d7aa38194cffa0091fbf04756fa770335b43c35a9d9b4479a9f133260f5` | `2026-05-20_kings-confession-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
